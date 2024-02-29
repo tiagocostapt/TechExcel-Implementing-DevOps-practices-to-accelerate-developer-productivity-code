@@ -2,7 +2,7 @@ on:
   workflow_dispatch
 
 env:
-  targetEnv: test
+  targetEnv: prod
 
 name: Azure Bicep
 jobs:
